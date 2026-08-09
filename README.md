@@ -10,8 +10,6 @@
 
 ## About
 
----
-
 Set Aside Some Time is a clock that sits on the side of your screen, waiting to be seen. 
 
 ## How to use?
