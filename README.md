@@ -8,4 +8,8 @@
 
 ---
 
-Set Aside Some Time is a clock that sits on the side of your screen, 
+<h2 align="center">About</h2>
+
+---
+
+Set Aside Some Time is a clock that sits on the side of your screen, waiting to be seen. 
