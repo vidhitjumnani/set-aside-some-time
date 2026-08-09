@@ -5,3 +5,7 @@
 
 <p align="center">
 <img alt="Logo Banner" src="/assets/banner.png"/>
+
+---
+
+Set Aside Some Time is a clock that sits on the side of your screen, 
