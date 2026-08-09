@@ -8,7 +8,7 @@
 
 ---
 
-<h1 align="center">About</h1>
+## About
 
 ---
 
@@ -16,7 +16,7 @@ Set Aside Some Time is a clock that sits on the side of your screen, waiting to 
 
 ---
 
-<h1 align="center">How to use?</h1>
+## How to use?
 
 ---
 
@@ -24,7 +24,7 @@ Just install the "Set Aside Some Time Setup.exe" from the release page and follo
 
 ---
 
-<h1 align="center">How to sneak into the code?</h1>
+## How to sneak into the code?
 
 ---
 
